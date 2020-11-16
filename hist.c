@@ -23,9 +23,6 @@ THE SOFTWARE.
 /* assert */
 #include <assert.h>
 
-/* OpenMP API */
-#include <omp.h>
-
 /* EXIT_SUCCESS, rand */
 #include <stdlib.h>
 
